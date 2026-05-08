@@ -1,7 +1,9 @@
 # Hi, I'm Aleksei 👋 Frontend & Full-Stack Engineer
 
 I build production-grade web apps and backend microservices — from pixel-perfect React UIs to Go gRPC services at scale.
+
 Most recently at [Phone2](https://www.phone2.io), a US-based VoIP platform, where I owned end-to-end full-stack delivery. 
+
 Now open to new opportunities.
 
 
