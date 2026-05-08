@@ -1,14 +1,13 @@
 # Hi, I'm Aleksei 👋
 
-**Full-Stack Engineer** based in Tbilisi, Georgia.  
+**Full-Stack Engineer**
 I build production-grade web apps and backend microservices — from pixel-perfect React UIs to Go gRPC services at scale.
-
-Most recently at **[Phone2](https://www.phone2.io)**, a US-based VoIP platform, where I owned end-to-end full-stack delivery. Now open to new opportunities.
 
 
 ## Tech Stack
 
 **Frontend**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -16,6 +15,7 @@ Most recently at **[Phone2](https://www.phone2.io)**, a US-based VoIP platform, 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 **Backend & Infrastructure**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
