@@ -1,4 +1,4 @@
-# Hi, I'm Aleksei 👋 Frontend & Full-Stack Engineer
+# Hi, I'm Aleksei 👋 Full-Stack Engineer
 
 I build production-grade web apps and backend microservices — from pixel-perfect React UIs to Go gRPC services at scale.
 
