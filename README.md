@@ -26,7 +26,7 @@ I build production-grade web apps and backend microservices — from pixel-perfe
 
 ## What I'm working on
 
-- **shadcn-inspired chat component library** — a custom open-source UI component set built on top of the shadcn/ui design system
+- [**shadcn-inspired chat component library**](https://github.com/Mesailor/shadcn-chat) — a custom open-source UI component set built on top of the shadcn/ui design system
 
 
 ## Get in touch
