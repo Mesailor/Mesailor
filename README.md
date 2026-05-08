@@ -5,6 +5,7 @@ I build production-grade web apps and backend microservices — from pixel-perfe
 
 Most recently at **[Phone2](https://www.phone2.io)**, a US-based VoIP platform, where I owned end-to-end full-stack delivery. Now open to new opportunities.
 
+
 ## Tech Stack
 
 **Frontend**
@@ -22,9 +23,11 @@ Most recently at **[Phone2](https://www.phone2.io)**, a US-based VoIP platform, 
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+
 ## What I'm working on
 
 - **shadcn-inspired chat component library** — a custom open-source UI component set built on top of the shadcn/ui design system
+
 
 ## Get in touch
 
