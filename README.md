@@ -1,35 +1,28 @@
-# Hi, I'm Aleksei 👋 Full-Stack Engineer
+### Hi, I'm Aleksei 👋 Full-Stack Engineer
 
-I build production-grade web apps and backend microservices — from pixel-perfect React UIs to Go gRPC services at scale.
-
-Most recently at [Phone2](https://www.phone2.io), a US-based VoIP platform, where I owned end-to-end full-stack delivery. 
+I build production-grade web apps and backend microservices — from pixel-perfect React UIs to Go gRPC services at scale. Most recently at [Phone2](https://www.phone2.io), a US-based VoIP platform, where I owned end-to-end full-stack delivery. Also, developed [**shadcn-inspired chat component library**](https://github.com/Mesailor/shadcn-chat) — a custom open-source UI component set built on top of the shadcn/ui design system.
 
 Now open to new opportunities.
 
 
-## Tech Stack
+#### Tech Stack
 
-**Frontend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux" alt="Frontend Skills, Tools, and Technologies" />
+  </a>
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-
-**Backend & Infrastructure**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,nodejs,postgres,mongodb,redis,docker" alt="Frontend Skills, Tools, and Technologies" />
+  </a>
+</p>
 
 <!--
 ## What I'm working on
 
-- [**shadcn-inspired chat component library**](https://github.com/Mesailor/shadcn-chat) — a custom open-source UI component set built on top of the shadcn/ui design system
+- 
 -->
 
 ## Get in touch
@@ -40,10 +33,6 @@ Now open to new opportunities.
 
 
 <!--
-**Mesailor/Mesailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
