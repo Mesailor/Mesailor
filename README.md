@@ -1,6 +1,6 @@
 ### Hi, I'm Aleksei 👋 Full-Stack Engineer
 
-I build production-grade web apps and backend microservices — from pixel-perfect React UIs to Go gRPC services at scale. Most recently at [Phone2](https://www.phone2.io), a US-based VoIP platform, where I owned end-to-end full-stack delivery. Also, developed [**shadcn-inspired chat component library**](https://github.com/Mesailor/shadcn-chat) — a custom open-source UI component set built on top of the shadcn/ui design system.
+I build production-grade web apps and backend microservices — from pixel-perfect React UIs to Go gRPC services at scale. Most recently at [Phone2](https://www.phone2.io), a US-based VoIP platform, where I owned end-to-end full-stack delivery. Also, developed [shadcn-inspired chat component library](https://github.com/Mesailor/shadcn-chat) — a custom open-source UI component set built on top of the shadcn/ui design system.
 
 Now open to new opportunities.
 
@@ -9,7 +9,7 @@ Now open to new opportunities.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux" alt="Frontend Skills, Tools, and Technologies" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" alt="Frontend Skills, Tools, and Technologies" />
   </a>
 </p>
 
